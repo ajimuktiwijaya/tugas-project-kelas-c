@@ -1,0 +1,65 @@
+body{
+  color: white;
+  background-color: black;
+}
+
+.header{
+	width: 1000px;
+	height: 121px;
+	border:1px solid black;
+	background-image: url("header.jpg");
+	margin-bottom: 10px;
+}
+
+ul {
+  width: 1000px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #BF3400;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: #F84300;
+}
+
+.isi{
+	background-color: #FF8E64;
+  width: 1000px;
+  height: 320px;
+}
+
+.gambar{
+  float: left;
+  margin-right: 5px;
+  margin-top: 5px; 
+  margin-left: 5px;
+}
+
+.gallery{
+  margin-top: 10px;
+  width: 1000px;
+  height: 300px;
+}
+
+.footer{
+  margin-top: 10px;
+  width: 1000px;
+  height: 25px;
+  padding-top: 15px;
+  background-color: #BF3400;
+}

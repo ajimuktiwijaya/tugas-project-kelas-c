@@ -1,0 +1,22 @@
+body{
+	background-image: url("background.jpg");
+	background-size: 25% 25%;
+}
+
+.gambar1{
+	text-align: center;
+	margin-top: 50px;
+	float: left;
+	width: 50%;
+	background-color: yellow;
+	height: 450px;
+}
+
+#gambar2{
+	text-align: center;
+	margin-top: 50px;
+	float: left;
+	width: 50%;
+	background-color: green;
+	height: 450px;
+}
